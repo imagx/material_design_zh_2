@@ -1,0 +1,8 @@
+{
+    "title": "Material Design 中文版",
+    "author": "",
+    "description": "Google I/O 2014 发布 Material Design，1sters 于 2014-09-09 上线中文版，已经新增 20+ 章节于「2015-08-16」翻译校对完毕，重新发布。",
+    "language": "zh-hans",
+    "gitbook" : ">3.0.0",
+    "root": "."
+}
